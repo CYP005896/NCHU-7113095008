@@ -4,6 +4,11 @@
 ### 中興大學 資料科學與資訊計算 數據分析數學
 ### 老師 : 施因澤 教授
 ### 學生 : 7113095008 江宜娉  
+
+<br>
+
+### source code (Python) : <https://github.com/CYP005896/NCHU-7113095008/tree/main>
+
 <br>
 
 ### <font color="brown">**作業題目:**</font>
